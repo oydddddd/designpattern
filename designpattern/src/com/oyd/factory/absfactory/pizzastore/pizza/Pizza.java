@@ -1,4 +1,4 @@
-package com.oyd.factory.simplefactory.pizzastore.pizza;
+package com.oyd.factory.absfactory.pizzastore.pizza;
 
 public abstract class Pizza {
     protected String name;
