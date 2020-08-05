@@ -13,6 +13,9 @@ public class ProjectManager {
         this.decorator = decorator;
     }
 
+    /**
+     * 产品构建与组装方法
+     */
     public Parlour decorate(){
         decorator.buildWall();
         decorator.buildTV();
